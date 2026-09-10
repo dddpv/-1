@@ -6,7 +6,7 @@ body {
 	background: linear-gradient(120deg, pink, purple, pink);
 }
 a {
-	color: red;
+	color: blue;
 }
 a:visited {
 	color: yellow;
@@ -114,7 +114,7 @@ ul {
 	margin: 0;
 	line-height: 1.6;
 	font-size: 15px;
-	color: red;
+	color: blue;
 }
 .flat-page content .info button {
 	border: 0;
