@@ -6,7 +6,7 @@ body {
 	background: linear-gradient(120deg, pink, purple, pink);
 }
 a {
-	color: white;
+	color: red;
 }
 a:visited {
 	color: yellow;
